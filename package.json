@@ -46,7 +46,7 @@
     "dayjs": "^1.10.5",
     "disqus-react": "^1.1.1",
     "email-validator": "^2.0.4",
-    "fs": "^0.0.1-security",
+    "fs": "^0.0.2",
     "hast-util-to-string": "^1.0.4",
     "lodash.throttle": "^4.1.1",
     "next": "^11.0.1",
